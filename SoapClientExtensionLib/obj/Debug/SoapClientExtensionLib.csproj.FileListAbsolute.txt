@@ -1,0 +1,4 @@
+D:\Projects\MathService\SoapClientExtensionLib\bin\Debug\SoapClientExtensionLib.dll
+D:\Projects\MathService\SoapClientExtensionLib\bin\Debug\SoapClientExtensionLib.pdb
+D:\Projects\MathService\SoapClientExtensionLib\obj\Debug\SoapClientExtensionLib.dll
+D:\Projects\MathService\SoapClientExtensionLib\obj\Debug\SoapClientExtensionLib.pdb

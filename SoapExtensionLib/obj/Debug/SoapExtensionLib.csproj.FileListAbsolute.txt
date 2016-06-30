@@ -1,0 +1,9 @@
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\SoapExtensionLib\bin\Debug\SoapExtensionLib.dll
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\SoapExtensionLib\bin\Debug\SoapExtensionLib.pdb
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\SoapExtensionLib\obj\Debug\SoapExtensionLib.dll
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\SoapExtensionLib\obj\Debug\SoapExtensionLib.pdb
+D:\Projects\MathService\SoapExtensionLib\bin\Debug\SoapExtensionLib.dll
+D:\Projects\MathService\SoapExtensionLib\bin\Debug\SoapExtensionLib.pdb
+D:\Projects\MathService\SoapExtensionLib\obj\Debug\SoapExtensionLib.dll
+D:\Projects\MathService\SoapExtensionLib\obj\Debug\SoapExtensionLib.pdb
+D:\Projects\MathService\SoapExtensionLib\obj\Debug\SoapExtensionLib.csprojResolveAssemblyReference.cache

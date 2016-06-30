@@ -1,0 +1,21 @@
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Projects\MathService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projects\MathService\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Projects\MathService\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Projects\MathService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projects\MathService\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projects\MathService\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Projects\MathService\ConsoleApplication1\bin\Debug\SoapClientExtensionLib.dll
+D:\Projects\MathService\ConsoleApplication1\bin\Debug\SoapClientExtensionLib.pdb
+E:\Projects\MathService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Projects\MathService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Projects\MathService\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Projects\MathService\ConsoleApplication1\bin\Debug\SoapClientExtensionLib.dll
+E:\Projects\MathService\ConsoleApplication1\bin\Debug\SoapClientExtensionLib.pdb
+E:\Projects\MathService\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Projects\MathService\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\Projects\MathService\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

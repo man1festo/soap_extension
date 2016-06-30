@@ -1,0 +1,21 @@
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\MathService\bin\MathService.dll
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\MathService\bin\MathService.pdb
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\MathService\obj\Debug\MathService.dll
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\MathService\obj\Debug\MathService.pdb
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\MathService\bin\SoapExtensionLib.dll
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\MathService\bin\SoapExtensionLib.pdb
+c:\users\man1festo\documents\visual studio 2010\Projects\MathService\MathService\obj\Debug\MathService.csprojResolveAssemblyReference.cache
+D:\Projects\MathService\MathService\bin\MathService.dll
+D:\Projects\MathService\MathService\bin\MathService.pdb
+D:\Projects\MathService\MathService\bin\SoapExtensionLib.dll
+D:\Projects\MathService\MathService\bin\SoapExtensionLib.pdb
+D:\Projects\MathService\MathService\obj\Debug\MathService.csprojResolveAssemblyReference.cache
+D:\Projects\MathService\MathService\obj\Debug\MathService.dll
+D:\Projects\MathService\MathService\obj\Debug\MathService.pdb
+E:\Projects\MathService\MathService\bin\MathService.dll
+E:\Projects\MathService\MathService\bin\MathService.pdb
+E:\Projects\MathService\MathService\bin\SoapExtensionLib.dll
+E:\Projects\MathService\MathService\bin\SoapExtensionLib.pdb
+E:\Projects\MathService\MathService\obj\Debug\MathService.csprojResolveAssemblyReference.cache
+E:\Projects\MathService\MathService\obj\Debug\MathService.dll
+E:\Projects\MathService\MathService\obj\Debug\MathService.pdb
